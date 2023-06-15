@@ -1,0 +1,21 @@
+{
+    "pelicula":[
+        {
+            "id": "1",
+            "nombre": "Chucky",
+            "director": "Che copete",
+            "foto": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/11/chucky-2-2863577.jpg?tf=3840x"
+        }, {
+                "id": "2",
+                "nombre": "Batman",
+                "director": "Matt Reeves",
+                "foto": "https://i.blogs.es/0c9485/the-batman-cartel/1366_2000.jpeg"
+            },{
+                "id": "3",
+                "nombre": "Mario Bros",
+                "director": "Aaron Horvath",
+                "foto": "https://i.blogs.es/1b4437/super-mario-pelicula-escena-postcreditos-web/1366_2000.jpeg"
+            }
+
+    ]
+}
